@@ -1,3 +1,5 @@
 
 .DS_Store
 03/.DS_Store
+03/.terraform/plugins/darwin_amd64/lock.json
+03/.terraform/plugins/darwin_amd64/terraform-provider-aws_v2.70.0_x4
