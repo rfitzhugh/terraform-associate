@@ -35,6 +35,6 @@ Go over all the following points, and put an `x` in all the boxes that apply. If
 - [ ] My code follows the code style of this project.
 - [ ] My change requires a change to the documentation.
 - [ ] I have updated the documentation accordingly.
-- [ ] I have read the **[CONTRIBUTION](/README.md)** document.
+- [ ] I have read the **[CONTRIBUTION](/README.md#contributing)** document.
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
