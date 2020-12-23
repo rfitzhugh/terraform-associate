@@ -223,6 +223,7 @@ resource "null_resource" "generate-sshkey" {
         command = "yes y | ssh-keygen -b 4096 -t rsa -C 'terraform-kubernetes' -N '' -f ${var.kubernetes_controller.["private_key"]}"
     }
 }
+```
 
 #### `remote-exec`
 
