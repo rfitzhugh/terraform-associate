@@ -51,7 +51,7 @@ Contributions via GitHub pull requests are gladly accepted from their original a
 
 ### Code of Conduct
 
-All contributors are expected to abide by the [Code of Conduct](/).
+All contributors are expected to abide by the [Code of Conduct](/CODE_OF_CONDUCT.md).
 
 ### License
 
