@@ -20,7 +20,7 @@ The exam review is posted [here](https://learn.hashicorp.com/tutorials/terraform
 
 ## Resources
 
-Fantastic resources collected on the topic.
+A list of fantastic resources collected on the topic.
 
 ### 📝 Official References
 
@@ -32,7 +32,7 @@ Fantastic resources collected on the topic.
 
 - [Pluralsight: "Terraform - Getting Started"](https://app.pluralsight.com/library/courses/getting-started-terraform) by [Ned Bellavance](https://twitter.com/Ned1313)
 - [Pluralsight: "Terraform Deep Dive"](https://app.pluralsight.com/library/courses/terraform-deep-dive) by [Ned Bellavance](https://twitter.com/Ned1313)
-- [HashiCorp Certified: Terraform Associate Practice Exam 2020](https://www.udemy.com/course/terraform-associate-practice-exam/)
+- [HashiCorp Certified: Terraform Associate Practice Exam 2020](https://www.udemy.com/course/terraform-associate-practice-exam/) by [Bryan Krausen](https://twitter.com/btkrausen)
 
 ### 🤗 Community Resources
 
