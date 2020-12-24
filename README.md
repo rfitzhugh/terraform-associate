@@ -6,13 +6,13 @@ Each [Exam Objective](#exam-objectives) is broken down into helpful links, comma
 
 ## Exam Objectives
 
-The exam review is posted [here](https://learn.hashicorp.com/tutorials/terraform/associate-review). The percentage after each objective is the relative score weight on the exam.
+The exam review is posted [here](https://learn.hashicorp.com/tutorials/terraform/associate-review).
 
 - [Objective 1: Understand Infrastructure as Code (IaC) concepts](objectives/01-iac-concepts.md) ✅
 - [Objective 2: Understand Terraform's purpose (vs other IaC)](objectives/02-terraform-purpose.md) ✅
 - [Objective 3: Understand Terraform basics](objectives/03-terraform-basics.md) ✅
 - [Objective 4: Use the Terraform CLI (outside of core workflow)](objectives/04-terraform-cli.md) ✅
-- [Objective 5: Interact with Terraform modules](objectives/05-terraform-modules.md) 
+- [Objective 5: Interact with Terraform modules](objectives/05-terraform-modules.md) ✅
 - [Objective 6: Navigate Terraform workflow](objectives/06-terraform-workflow.md) ✅
 - [Objective 7: Implement and maintain state](objectives/07-terraform-state.md)
 - [Objective 8: Read, generate, and modify configuration](objectives/08-terraform-configuration.md)
@@ -20,7 +20,7 @@ The exam review is posted [here](https://learn.hashicorp.com/tutorials/terraform
 
 ## Resources
 
-Fantastic resources collected on the topic.
+A list of fantastic resources collected on the topic.
 
 ### 📝 Official References
 
@@ -32,7 +32,7 @@ Fantastic resources collected on the topic.
 
 - [Pluralsight: "Terraform - Getting Started"](https://app.pluralsight.com/library/courses/getting-started-terraform) by [Ned Bellavance](https://twitter.com/Ned1313)
 - [Pluralsight: "Terraform Deep Dive"](https://app.pluralsight.com/library/courses/terraform-deep-dive) by [Ned Bellavance](https://twitter.com/Ned1313)
-- [HashiCorp Certified: Terraform Associate Practice Exam 2020](https://www.udemy.com/course/terraform-associate-practice-exam/)
+- [HashiCorp Certified: Terraform Associate Practice Exam 2020](https://www.udemy.com/course/terraform-associate-practice-exam/) by [Bryan Krausen](https://twitter.com/btkrausen)
 
 ### 🤗 Community Resources
 
