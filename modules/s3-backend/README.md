@@ -15,3 +15,8 @@ terraform {
  }
 }
 ```
+
+1. Open up a terminal and type `cd modules/s3-backend`
+2. Change `terraform.tfvars.example` to `terraform.tfvars` and update the variable values
+3. In the terminal, type the command `terraform init` to initialize the configuration
+4. Once ready to configure AWS resources for the Terraform backend, type `terraform apply --auto-approve`
