@@ -1,3 +1,0 @@
-region = "us-east-2"
-bucket_name = "technicloud-s3-tfstate-use2"
-db_name = "tfstate-lock"
