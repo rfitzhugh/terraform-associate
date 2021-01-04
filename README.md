@@ -2,8 +2,6 @@
 
 This repository contains a study guide created in preparation for passing the [Terraform Associate](https://www.hashicorp.com/certification/terraform-associate) certification exam.
 
-Each [Exam Objective](#exam-objectives) is broken down into helpful links, commands, videos, scripts, code samples, and more so that you can refer back to this guide during your studies. 
-
 ## Exam Objectives
 
 The exam review is posted [here](https://learn.hashicorp.com/tutorials/terraform/associate-review).
