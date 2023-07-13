@@ -14,7 +14,7 @@ The following table outlines how the workflow changes based on the number of use
    </td>
    <td><strong>Plan</strong>
    </td>
-   <td><strong>Create</strong>
+   <td><strong>Apply</strong>
    </td>
   </tr>
   <tr>
