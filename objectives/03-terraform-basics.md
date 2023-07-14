@@ -36,7 +36,7 @@ Within a `terraform` block, only constant values may be used. This means that ar
 
 Terraform uses a plugin-based architecture to support hundreds of infrastructure and service providers. Initializing a configuration directory downloads and installs providers used in the configuration. Terraform plugins are compiled for a specific operating system and architecture, and any plugins in the root of the user’s plugins directory must be compiled for the current system. A provider is a plugin that Terraform uses to translate the API interactions with that platform or service.
 
-Anyone can develop and distribute their own Terraform providers. Any non-certified or third-party providers must be manually installed, since `terraform init` cannot automatically download them.
+For providers that are published in either the public Terraform Registry or in a third-party provider registry, terraform init will automatically find, download, and install the necessary provider plugins.
 
 ### Finding and Fetching Providers
 
